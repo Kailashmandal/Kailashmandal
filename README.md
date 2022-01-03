@@ -1,4 +1,4 @@
-<img src=" https://github.com/Kailashmandal/Kailashmandal/blob/main/Dark%20Purple%20%26%20Coral%20Gradient%20Content%20Creator%20LinkedIn%20Banner.png " align="center"/><h1 align="center">Hi 👋, I'm Kailash</h1>
+<img src="https://export-download.canva.com/tMDco/DAE0aStMDco/109/0/0001-15826753979.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20220102%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220102T210826Z&X-Amz-Expires=82367&X-Amz-Signature=78046c66f035684b2531f83540233abec891130ed23c0c3af0d3c18c30389388&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Dark%2520Purple%2520%26%2520Coral%2520Gradient%2520Content%2520Creator%2520LinkedIn%2520Banner.png&response-expires=Mon%2C%2003%20Jan%202022%2020%3A01%3A13%20GMT" align="center"/><h1 align="center">Hi 👋, I'm Kailash</h1>
 <h3 align="center">Aspiring software developer with excellent teaching skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kailashmandal&label=Profile%20views&color=0e75b6&style=flat" alt="kailashmandal" /> </p>
