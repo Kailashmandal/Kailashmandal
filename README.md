@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kailashmandal&label=Profile%20views&color=0e75b6&style=flat" alt="kailashmandal" /> </p>
 
-- 🔭 I’m currently working on [Quora for DAV](https://github.com/Kailashmandal/Quora-for-DAV.git)
+- 🔭 I’m currently working on [Automating the manual task with RPA tools]
 
-- 🌱 I’m currently learning **spring framework**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **hashtagkailash@gmail.com**
 
